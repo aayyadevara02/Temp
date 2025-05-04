@@ -15,3 +15,6 @@ Predicted word 2: time
 
 
 When including stopwords the RMSE seemed to be higher as opposed to without, which shows more accurate predictions when stopwords are excluded. The quality of prediction was also much better without stopwords because the models predicted more context specific words rather than common words as filler
+
+
+![image](https://github.com/user-attachments/assets/570c9e85-9f92-4e3a-8bc0-fde2bf37532e)
